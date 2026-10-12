@@ -1,0 +1,474 @@
+{
+  "start": "2026-09-14T00:00:00Z",
+  "end_exclusive": "2026-10-12T00:00:00Z",
+  "timezone": "utc",
+  "source": {
+    "url": "https://github.com/antibot4navalny/accounts_labelled/blob/285cb844017ee6d3132c89e5c7b63eb16413ee27/labels_manual.json",
+    "commit": "285cb844017ee6d3132c89e5c7b63eb16413ee27",
+    "september_additions": 64,
+    "older_sample": 250,
+    "sample_seed": "x-research-2026-10-07-larger-holdout-v1",
+    "sample_order": "sha256(seed + newline + lowercase handle)"
+  },
+  "eligibility": {
+    "start": "2026-09-30T22:00:00Z",
+    "end_exclusive": "2026-10-07T22:00:00Z",
+    "minimum_posts": 5,
+    "minimum_utc_dates": 2
+  },
+  "comparison": {
+    "start": "2026-10-07T23:00:00Z",
+    "end_exclusive": "2026-10-12T00:00:00Z",
+    "reference_weeks": [
+      1,
+      2,
+      3
+    ]
+  },
+  "events": [
+    {
+      "name": "sasovo",
+      "start": "2026-10-07T22:31:00Z"
+    },
+    {
+      "name": "kaluga",
+      "start": "2026-10-09T00:00:00Z",
+      "end": "2026-10-10T00:00:00Z",
+      "precision": "day"
+    },
+    {
+      "name": "vladimir",
+      "start": "2026-10-11T01:00:00Z"
+    }
+  ],
+  "zero_examples": {
+    "minimum_last_day_posts": 5,
+    "minimum_active_dates_in_last_seven_days": 3,
+    "minimum_following_zero_days": 3
+  },
+  "accounts": [
+    {
+      "username": "99_sxxy",
+      "id": "870340452939030532",
+      "group": "september additions",
+      "file": "counts/99_sxxy.json",
+      "query": "from:99_sxxy",
+      "collected_at": "2026-10-12T07:44:24.576Z",
+      "sha256": "fcd1212fe2b161fe343680f24b917b055f2893d34581e8897cd8d6396a932a86"
+    },
+    {
+      "username": "_BoevojGus_",
+      "id": "1756957214034587648",
+      "group": "older sample",
+      "file": "counts/_boevojgus_.json",
+      "query": "from:_BoevojGus_",
+      "collected_at": "2026-10-12T08:32:42.860Z",
+      "sha256": "b01a5c65c8e99792a5ee0935347c31c5cc9873f70250a1e4845ab1f0d6dfb14a"
+    },
+    {
+      "username": "aileepicss",
+      "id": "784133087169015808",
+      "group": "september additions",
+      "file": "counts/aileepicss.json",
+      "query": "from:aileepicss",
+      "collected_at": "2026-10-12T07:44:26.248Z",
+      "sha256": "2c96c2e75ecf806e247e9d8413abb2af8fb072f07ac93eced2c8e80ce4541031"
+    },
+    {
+      "username": "AleGeorgiy",
+      "id": "1651865718734954496",
+      "group": "older sample",
+      "file": "counts/alegeorgiy.json",
+      "query": "from:AleGeorgiy",
+      "collected_at": "2026-10-12T08:32:30.928Z",
+      "sha256": "ece5685db9905f09eb0e477eadb484c0f18a2f5be037d49130d4e3f481b71a71"
+    },
+    {
+      "username": "AlisaSallde_",
+      "id": "1562449910732992514",
+      "group": "older sample",
+      "file": "counts/alisasallde_.json",
+      "query": "from:AlisaSallde_",
+      "collected_at": "2026-10-12T08:32:00.552Z",
+      "sha256": "b508523642f2166067204258666ee63596486aa5ef9846c2536c25686a02e0c2"
+    },
+    {
+      "username": "AlvinaClau83515",
+      "id": "1758204487720726528",
+      "group": "september additions",
+      "file": "counts/alvinaclau83515.json",
+      "query": "from:AlvinaClau83515",
+      "collected_at": "2026-10-12T07:44:22.402Z",
+      "sha256": "e0e23a3d61c3bd32ea3ce4f5d04a1b33f1bc9d380d6eba523e67e2a0ff2da04b"
+    },
+    {
+      "username": "ambreenzehra9",
+      "id": "1263625453",
+      "group": "september additions",
+      "file": "counts/ambreenzehra9.json",
+      "query": "from:ambreenzehra9",
+      "collected_at": "2026-10-12T07:44:16.016Z",
+      "sha256": "10fac46a0070d9af6bb1a6c7c4824692a397a545a7f72d9cf2e21bbd886c7656"
+    },
+    {
+      "username": "anan48354",
+      "id": "715926659782737921",
+      "group": "september additions",
+      "file": "counts/anan48354.json",
+      "query": "from:anan48354",
+      "collected_at": "2026-10-12T07:44:09.489Z",
+      "sha256": "4f43b7cefa84d6864b116cee76935a8d66c0296f42b87e744f6dac1f70d2dd01"
+    },
+    {
+      "username": "AnastasiOsip",
+      "id": "1561659914270957570",
+      "group": "older sample",
+      "file": "counts/anastasiosip.json",
+      "query": "from:AnastasiOsip",
+      "collected_at": "2026-10-12T08:32:02.571Z",
+      "sha256": "2aa14d36194728bc20b847d852af4be7987493026f49fa1d2d5adda3cfe079d7"
+    },
+    {
+      "username": "apple_rimurimu",
+      "id": "741553488346243073",
+      "group": "september additions",
+      "file": "counts/apple_rimurimu.json",
+      "query": "from:apple_rimurimu",
+      "collected_at": "2026-10-12T07:44:14.465Z",
+      "sha256": "f33aa6675fabb57b8756e44ac0807ed70e946794a2fb2a66239bda02eaa009c7"
+    },
+    {
+      "username": "askzahid",
+      "id": "152017807",
+      "group": "september additions",
+      "file": "counts/askzahid.json",
+      "query": "from:askzahid",
+      "collected_at": "2026-10-12T07:44:13.787Z",
+      "sha256": "970ce0066670a5a6fea29de17b13f7720a9142ac876a0693dd983a77f909791d"
+    },
+    {
+      "username": "dmi69dmi",
+      "id": "704736354542985216",
+      "group": "september additions",
+      "file": "counts/dmi69dmi.json",
+      "query": "from:dmi69dmi",
+      "collected_at": "2026-10-12T07:44:18.079Z",
+      "sha256": "1ba6482201cfd85360ed9daa7fe7a044c6b87f8dd3afbc8a995444fc49a3861e"
+    },
+    {
+      "username": "DusIlluzia",
+      "id": "1722158567795404800",
+      "group": "older sample",
+      "file": "counts/dusilluzia.json",
+      "query": "from:DusIlluzia",
+      "collected_at": "2026-10-12T08:32:27.865Z",
+      "sha256": "c68a2e6b0fe5bd50b0baeb67dda6414107e81dea5d2b3a0b19902a0cd7b022b2"
+    },
+    {
+      "username": "elaineamorim162",
+      "id": "784470612207136768",
+      "group": "september additions",
+      "file": "counts/elaineamorim162.json",
+      "query": "from:elaineamorim162",
+      "collected_at": "2026-10-12T07:44:17.753Z",
+      "sha256": "635ef1224804eac1cdc93cc4d98ce5873bddc35b8b032027b0863878f6e7c1f3"
+    },
+    {
+      "username": "FangirlMMXII",
+      "id": "941455563925393408",
+      "group": "september additions",
+      "file": "counts/fangirlmmxii.json",
+      "query": "from:FangirlMMXII",
+      "collected_at": "2026-10-12T07:44:11.520Z",
+      "sha256": "fa9f20591f798c65b98deb60ba3f62702d624d6eac7230571c3e52b51cec136a"
+    },
+    {
+      "username": "feroozmodassir5",
+      "id": "734995374193180672",
+      "group": "september additions",
+      "file": "counts/feroozmodassir5.json",
+      "query": "from:feroozmodassir5",
+      "collected_at": "2026-10-12T07:44:26.546Z",
+      "sha256": "e5848c1781f4a0c5e07056a0ed7ad1dcd4499accfaee1832c60287f83485d8d2"
+    },
+    {
+      "username": "juanbau46100938",
+      "id": "905090407",
+      "group": "september additions",
+      "file": "counts/juanbau46100938.json",
+      "query": "from:juanbau46100938",
+      "collected_at": "2026-10-12T07:44:10.428Z",
+      "sha256": "5b198320a21bf33539fa849419a1e4900a944aac7db65b58c826e7dcbd22391d"
+    },
+    {
+      "username": "kimthegreatvibe",
+      "id": "575533453",
+      "group": "older sample",
+      "file": "counts/kimthegreatvibe.json",
+      "query": "from:kimthegreatvibe",
+      "collected_at": "2026-10-12T08:32:08.470Z",
+      "sha256": "95513b519684bf53666e65f1f46a20ff8560d89a3400aa0cae5dede8d1991de6"
+    },
+    {
+      "username": "kiragvozdik",
+      "id": "3067974218",
+      "group": "older sample",
+      "file": "counts/kiragvozdik.json",
+      "query": "from:kiragvozdik",
+      "collected_at": "2026-10-12T08:32:00.841Z",
+      "sha256": "5dfa5bcb0defa836cb900289bb3e59b1ee852beb0245e62b6739ed352e252376"
+    },
+    {
+      "username": "KokyKokyamr12",
+      "id": "869082982811926528",
+      "group": "september additions",
+      "file": "counts/kokykokyamr12.json",
+      "query": "from:KokyKokyamr12",
+      "collected_at": "2026-10-12T07:44:16.299Z",
+      "sha256": "a22307ba8bbe53bc9cda5c1b61b1cb2524516727227d335cbd0be13e4fd14f0e"
+    },
+    {
+      "username": "KseniVino",
+      "id": "1813878428757536768",
+      "group": "september additions",
+      "file": "counts/ksenivino.json",
+      "query": "from:KseniVino",
+      "collected_at": "2026-10-12T07:44:17.428Z",
+      "sha256": "313bc486a6b41c2c0bc5bd03693270cd135a0aaec11578462a498aff84b3205b"
+    },
+    {
+      "username": "LaurelNarc61112",
+      "id": "1751799764461469696",
+      "group": "older sample",
+      "file": "counts/laurelnarc61112.json",
+      "query": "from:LaurelNarc61112",
+      "collected_at": "2026-10-12T08:32:04.795Z",
+      "sha256": "ec2cef5838ceec81571606a6df246774582e3024be43eb0b650e7696bec1496b"
+    },
+    {
+      "username": "Ler_1978",
+      "id": "730872537568190469",
+      "group": "september additions",
+      "file": "counts/ler_1978.json",
+      "query": "from:Ler_1978",
+      "collected_at": "2026-10-12T07:44:10.672Z",
+      "sha256": "e4bee8c4d1fefa114c31edeb61a697994f442124aa546bb883248df137275d17"
+    },
+    {
+      "username": "maibmar123",
+      "id": "2809332483",
+      "group": "september additions",
+      "file": "counts/maibmar123.json",
+      "query": "from:maibmar123",
+      "collected_at": "2026-10-12T07:44:18.920Z",
+      "sha256": "2b88d37cd1dac9a65cb13c58a512f4da4070203bdd49f382d9a1f131dbeaa4f7"
+    },
+    {
+      "username": "meshlovvladmr",
+      "id": "1635294841394561027",
+      "group": "older sample",
+      "file": "counts/meshlovvladmr.json",
+      "query": "from:meshlovvladmr",
+      "collected_at": "2026-10-12T08:32:42.526Z",
+      "sha256": "355eb9232b3683e674a7f1540ebe76e53cc3448f5a3f4904168f32507e2db754"
+    },
+    {
+      "username": "mharitonka",
+      "id": "1638545895405805575",
+      "group": "older sample",
+      "file": "counts/mharitonka.json",
+      "query": "from:mharitonka",
+      "collected_at": "2026-10-12T08:32:13.343Z",
+      "sha256": "120bca00620f3480d89a858ac1a6d38416fe5b0b91494f7f39f483753edc60e8"
+    },
+    {
+      "username": "olesha_englend",
+      "id": "1619827568705667074",
+      "group": "older sample",
+      "file": "counts/olesha_englend.json",
+      "query": "from:olesha_englend",
+      "collected_at": "2026-10-12T08:32:18.623Z",
+      "sha256": "d02b379becb5214b70d676a914874748b49778953301fe2889d56e72089e5973"
+    },
+    {
+      "username": "opimisttzaln",
+      "id": "776873257131794432",
+      "group": "september additions",
+      "file": "counts/opimisttzaln.json",
+      "query": "from:opimisttzaln",
+      "collected_at": "2026-10-12T07:44:26.809Z",
+      "sha256": "f2158aef18b49e6e4aa54925333a2c4d5383b65bf2a56774daef8773ae0c0a44"
+    },
+    {
+      "username": "Parapapapa88388",
+      "id": "1735466290943250432",
+      "group": "older sample",
+      "file": "counts/parapapapa88388.json",
+      "query": "from:Parapapapa88388",
+      "collected_at": "2026-10-12T08:32:02.867Z",
+      "sha256": "95c535ba72569076cb1528d292d130efd4aa8ee4e221f9c5df7e74358854ffe1"
+    },
+    {
+      "username": "pravoslavnahro2",
+      "id": "1631617473865760770",
+      "group": "older sample",
+      "file": "counts/pravoslavnahro2.json",
+      "query": "from:pravoslavnahro2",
+      "collected_at": "2026-10-12T08:32:30.209Z",
+      "sha256": "1e2517daed6d12a33bc88b38f8b846a684f373882cfbc1c64997858a38396e34"
+    },
+    {
+      "username": "Raju5842412",
+      "id": "546709287",
+      "group": "september additions",
+      "file": "counts/raju5842412.json",
+      "query": "from:Raju5842412",
+      "collected_at": "2026-10-12T07:44:11.269Z",
+      "sha256": "cf847d699ced5eb7c16b13a3edcd7560c9580077a9f14584e4ad6073bd880d87"
+    },
+    {
+      "username": "Resya_Tania48",
+      "id": "729148568678760448",
+      "group": "september additions",
+      "file": "counts/resya_tania48.json",
+      "query": "from:Resya_Tania48",
+      "collected_at": "2026-10-12T07:44:13.469Z",
+      "sha256": "5677bfc0ee5c8e93496070a9ca2a6be32114737983287bb6eaaefbb33b4a8fb3"
+    },
+    {
+      "username": "rohit18199",
+      "id": "803067291617271808",
+      "group": "september additions",
+      "file": "counts/rohit18199.json",
+      "query": "from:rohit18199",
+      "collected_at": "2026-10-12T07:44:24.002Z",
+      "sha256": "af1642ca7c4d808c3e2826c86a429a9c549e7f4ffc767e0daa19264e0f8f08bf"
+    },
+    {
+      "username": "shekel_avokado",
+      "id": "575529284",
+      "group": "older sample",
+      "file": "counts/shekel_avokado.json",
+      "query": "from:shekel_avokado",
+      "collected_at": "2026-10-12T08:32:26.447Z",
+      "sha256": "481f515615ff4b2e66ae8a5682f58ac77b48e43decfaecf916ad472599404b55"
+    },
+    {
+      "username": "shimenk",
+      "id": "575560210",
+      "group": "older sample",
+      "file": "counts/shimenk.json",
+      "query": "from:shimenk",
+      "collected_at": "2026-10-12T08:32:20.054Z",
+      "sha256": "c3e36b6c2d85a80b9977c2ff0d1d99f18bd3c9a57ebbfb6395f61834696decc5"
+    },
+    {
+      "username": "shortfoot86",
+      "id": "174124766",
+      "group": "september additions",
+      "file": "counts/shortfoot86.json",
+      "query": "from:shortfoot86",
+      "collected_at": "2026-10-12T07:44:16.821Z",
+      "sha256": "49b95998ec8573a052864a898d908a458e62a7e59ebb21d0a59506b662c556af"
+    },
+    {
+      "username": "smyslenyjGY",
+      "id": "1673614869906563072",
+      "group": "older sample",
+      "file": "counts/smyslenyjgy.json",
+      "query": "from:smyslenyjGY",
+      "collected_at": "2026-10-12T08:32:34.114Z",
+      "sha256": "045b6f225e8990e7b502c196a8cca1a67738ab412bb7e636efecbeda018e64bc"
+    },
+    {
+      "username": "soz_dunyamm",
+      "id": "895223079730900992",
+      "group": "september additions",
+      "file": "counts/soz_dunyamm.json",
+      "query": "from:soz_dunyamm",
+      "collected_at": "2026-10-12T07:44:08.790Z",
+      "sha256": "74001311e8f2e10bcc723f478a8d73eb9f54317a450fa481af2a11fe93166ad9"
+    },
+    {
+      "username": "stefany_sow",
+      "id": "1758912359123320832",
+      "group": "older sample",
+      "file": "counts/stefany_sow.json",
+      "query": "from:stefany_sow",
+      "collected_at": "2026-10-12T08:31:59.624Z",
+      "sha256": "a698c4f17cb630a62d8df3b1ae332cbe7619fd0f926107b371a756c70602275b"
+    },
+    {
+      "username": "svellevamilla",
+      "id": "1650825736431841282",
+      "group": "older sample",
+      "file": "counts/svellevamilla.json",
+      "query": "from:svellevamilla",
+      "collected_at": "2026-10-12T08:31:54.194Z",
+      "sha256": "300ce92dc99c88f469a7a12346006a1c36c79990d2af5536c6d9e2a42b814f8e"
+    },
+    {
+      "username": "tejash_bagadiya",
+      "id": "720931650348003328",
+      "group": "september additions",
+      "file": "counts/tejash_bagadiya.json",
+      "query": "from:tejash_bagadiya",
+      "collected_at": "2026-10-12T07:44:24.258Z",
+      "sha256": "bc57e45a7329d3f89deecedea1b59f2e4a478f960837f63bf28e2d3a546de50a"
+    },
+    {
+      "username": "TericaKayl41059",
+      "id": "1758131733307023360",
+      "group": "september additions",
+      "file": "counts/tericakayl41059.json",
+      "query": "from:TericaKayl41059",
+      "collected_at": "2026-10-12T07:44:18.389Z",
+      "sha256": "abcc3725f5822e8f2b1ed4fbcbd62b4b97bdc20d628036df04f2d729ae1f1f9d"
+    },
+    {
+      "username": "varyalebdv",
+      "id": "1632743008272564229",
+      "group": "older sample",
+      "file": "counts/varyalebdv.json",
+      "query": "from:varyalebdv",
+      "collected_at": "2026-10-12T08:32:27.044Z",
+      "sha256": "541d8d46f07fe0eab85f2d933fef5a1f80f4a7b1939a7d3149f761c44d611a91"
+    },
+    {
+      "username": "VeronikaIl_",
+      "id": "1694643109353672704",
+      "group": "older sample",
+      "file": "counts/veronikail_.json",
+      "query": "from:VeronikaIl_",
+      "collected_at": "2026-10-12T08:32:02.009Z",
+      "sha256": "67646fa0b0dcac3d21753e37ec499f3e4d3c6e4f577b8ad32410c80ec185b8b6"
+    },
+    {
+      "username": "whipit_butera",
+      "id": "704626326146187264",
+      "group": "september additions",
+      "file": "counts/whipit_butera.json",
+      "query": "from:whipit_butera",
+      "collected_at": "2026-10-12T07:44:14.200Z",
+      "sha256": "11b839c8a143fab7841808acfde94c647e412bcb457ea40086849a6bb8572613"
+    },
+    {
+      "username": "Xvbingbing",
+      "id": "753234714777952256",
+      "group": "september additions",
+      "file": "counts/xvbingbing.json",
+      "query": "from:Xvbingbing",
+      "collected_at": "2026-10-12T07:44:12.092Z",
+      "sha256": "61ddd61fb449b84906c8a1121d0821758a5f506f98bd0b539530c6c9f2a49102"
+    },
+    {
+      "username": "yasser_305566",
+      "id": "2229044489",
+      "group": "september additions",
+      "file": "counts/yasser_305566.json",
+      "query": "from:yasser_305566",
+      "collected_at": "2026-10-12T07:44:12.907Z",
+      "sha256": "c72119d6c455794b9f3668f1cba950e699e38d5251e49a65978ca0dc8d969023"
+    }
+  ]
+}
